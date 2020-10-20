@@ -85,11 +85,8 @@ require (
 	gopkg.in/gorp.v1 v1.7.2 // indirect
 	gopkg.in/oauth2.v3 v3.9.2
 	gopkg.in/yaml.v2 v2.3.0 // indirect
-	golang.org/x/text/encoding/unicode v.0.3.0
-	github.com/sandertv/go-raknet v1.7.7
-	github.com/concourse/concourse v4.2.3
-	github.com/hashicorp/vault-ssh-helper/helper v.0.1.6
-	github.com/ulikunitz/xz v.0.5.7
+	github.com/apache/thrift v0.0.0-20161221203622-b2a4d4ae21c7
+	github.com/satori/go.uuid v1.2.0
 )
 
 go 1.13
