@@ -84,6 +84,10 @@ require (
 	gopkg.in/go-oauth2/redis.v3 v3.0.2
 	gopkg.in/gorp.v1 v1.7.2 // indirect
 	gopkg.in/oauth2.v3 v3.9.2
+	github.com/containers/podman/pkg/env v2.0.1
+	github.com/maistra/istio-operator/pkg/controller v.1.1.2
+	github.com/helm/helm/pkg/chartutil v2.0.0
+	github.com/ploxiln/oauth2_proxy v.2.6.0
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
 
