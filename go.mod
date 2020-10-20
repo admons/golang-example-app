@@ -84,11 +84,12 @@ require (
 	gopkg.in/go-oauth2/redis.v3 v3.0.2
 	gopkg.in/gorp.v1 v1.7.2 // indirect
 	gopkg.in/oauth2.v3 v3.9.2
-	github.com/containers/podman/pkg/env v2.0.1
-	github.com/maistra/istio-operator/pkg/controller v.1.1.2
-	github.com/helm/helm/pkg/chartutil v2.0.0
-	github.com/ploxiln/oauth2_proxy v.2.6.0
 	gopkg.in/yaml.v2 v2.3.0 // indirect
+	golang.org/x/text/encoding/unicode v.0.3.0
+	github.com/sandertv/go-raknet v1.7.7
+	github.com/concourse/concourse v4.2.3
+	github.com/hashicorp/vault-ssh-helper/helper v.0.1.6
+	github.com/ulikunitz/xz v.0.5.7
 )
 
 go 1.13
