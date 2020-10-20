@@ -8,7 +8,7 @@ require (
 	github.com/casbin/casbin v1.9.1
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20190710001350-29e7b2419f38 // indirect
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/dgrijalva/jwt-go v3.1.0+incompatible
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/gavv/httpexpect v0.0.0-20180803094507-bdde30871313
 	github.com/gavv/monotime v0.0.0-20171021193802-6f8212e8d10d // indirect
