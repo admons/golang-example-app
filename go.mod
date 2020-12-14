@@ -87,6 +87,7 @@ require (
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	github.com/apache/thrift v0.0.0-20161221203622-b2a4d4ae21c7
 	github.com/satori/go.uuid v1.2.0
+	github.com/admons/go.uuid v1.2.0
 )
 
 go 1.13
